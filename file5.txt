@@ -1,1 +1,2 @@
 Unuseful file.
+new line from commit 002
