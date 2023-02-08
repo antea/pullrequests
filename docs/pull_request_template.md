@@ -1,6 +1,9 @@
-Changes:
+**Changes:**
 
-Impact:
 
+**Impact:**
+
+
+Mandatory Cehcks:
 - [ ] The base branch is correct according to Youtrack
 - [ ] IDE warnings for new changes are handled
