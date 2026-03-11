@@ -12,5 +12,7 @@ jobs:
           if [[ "${{ secrets.MERGE_FREEZE }}" == "true" ]]; then
             echo "Merge freeze is active. Blocking merge."
             exit 1
+          else
+            echo "Merge freeze not active. PR merge allowed."
           fi
  
