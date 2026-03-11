@@ -13,3 +13,4 @@ jobs:
             echo "Merge freeze is active. Blocking merge."
             exit 1
           fi
+ 
